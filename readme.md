@@ -1,0 +1,1 @@
+Criei esse projeto para desenvolver minhas habilidades em PHP, e otimizar meu portfólio utilizando PHP. 
